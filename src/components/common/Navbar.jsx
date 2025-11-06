@@ -4,7 +4,7 @@ import { IoSearchOutline } from "react-icons/io5";
 const Navbar = () => {
 
     return (
-        <nav className="flex items-center justify-between">
+        <nav className="flex items-center justify-between bg-green-500">
             {/* logo section  */}
             <img src="./logo.png" alt="Next Room" className="w-36 h-auto"/>
 
